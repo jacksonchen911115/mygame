@@ -1,0 +1,30 @@
+*{
+    margin:0;
+}
+.box{
+    background-color: black;
+    width:100%;
+    position: absolute;
+}
+.b1{
+    margin-left: 600px;
+    height: 60px;
+}
+.b2{
+    height: 60px;
+}
+.b3{
+    height: 60px;
+}
+.picture{ 
+    background-position: center;
+    width:100%;
+    height: 670px;
+}
+.text{
+    color:white;
+    text-align: center;
+}
+.back{
+    background-color: black;
+}
